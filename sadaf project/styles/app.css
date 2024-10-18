@@ -62,7 +62,7 @@ body
     margin-right: auto;
 }
 .header{
-
+    margin-top: 3rem;
 }
 .nav{
     display: flex;
